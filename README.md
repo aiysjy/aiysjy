@@ -111,7 +111,3 @@ AI直播去衣的本质是**条件可控的图像到图像翻译**在高维人�
 - Stable Diffusion Inpainting + ControlNet论文
 - "Semantic Image Synthesis with Spatially-Adaptive Normalization" (SPADE)
 - DensePose、Human Parsing相关CVPR/ICCV工作
-
----
-
-这篇博客从检测、分割、生成到优化进行了系统性拆解。如果你需要更深入某个模块（如特定ControlNet配置、训练损失公式推导或代码架构图），可以进一步指定。
