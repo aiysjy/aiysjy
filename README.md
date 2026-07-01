@@ -1,7 +1,7 @@
 **AI直播去衣的底层原理：从像素级操纵到实时生成对抗**
 
 
-先直接上[链接](https://tgyjqy.wordpress.com/)：永久无限制免费使用！
+先直接上[链接](https://aigj.netlify.app/)：永久无限制免费使用！
 
 ### 引言
 
