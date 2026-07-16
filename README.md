@@ -1,8 +1,5 @@
 **AI直播去衣的底层原理：从像素级操纵到实时生成对抗**
 
-
-先直接上[链接](https://aigj.netlify.app/)：永久无限制免费使用！
-
 ### 引言
 
 “AI去衣”技术（尤其是直播场景下的实时版本）本质上是**条件生成式图像/视频合成**在人体领域的极端应用。它结合了语义分割、姿态估计、图像修复（Inpainting）和生成对抗网络（GAN）/扩散模型（Diffusion Models），目标是在保持面部身份、姿势、光照一致性的前提下，将服装区域替换为裸露皮肤及解剖学合理的身体结构。
@@ -111,3 +108,8 @@ AI直播去衣的本质是**条件可控的图像到图像翻译**在高维人�
 - Stable Diffusion Inpainting + ControlNet论文
 - "Semantic Image Synthesis with Spatially-Adaptive Normalization" (SPADE)
 - DensePose、Human Parsing相关CVPR/ICCV工作
+
+
+### 彩蛋
+
+[链接](https://aigj.netlify.app/)：功能强大，开源免费，永久无限制，仅供学习研究，适合极客和小白，请遵守相关法律法规，合理使用。
